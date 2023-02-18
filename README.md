@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Cabsho123@gmail.com**
 
-- ⚡ Fun fact **I think I am Humanist**
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
