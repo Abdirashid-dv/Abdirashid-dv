@@ -1,10 +1,8 @@
-<img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" align="left" style="width: 100%" />  
-  
-
-### <div align="center">I'm Abdirashid, a Software Engineering student 👨‍💻 CO2026</div>  
-  
-
-- 🌱 I’m currently learning Fullstack Web Development  
+<p align="center"><img width="70%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/name.png" /></p>
+<br />
+<p>Welcome to my page!</p>
+- ❤️ I'm Software engineering student from SO, currently living in TR <br/>  
+- 🌱 I’m currently learning MERN Stack <br/>  
   
 
 <br/>  
@@ -82,22 +80,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abdirashid-dv&&style=flat-square" align="center" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" />
+  <img width="31.3%" src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" alt="streak graph"  />
+</div>  
+
+<br/>
+<div align="center">
+<img width="20%" src="https://komarev.com/ghpvc/?username=Abdirashid-dv&&style=flat-square" align="center" />
 </div>    
 <br/>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" height="200" alt="streak graph"  />
-</div>
 
 ----
