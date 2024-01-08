@@ -1,4 +1,4 @@
-<p align="center"><img width="70%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/name.png" /></p>
+<p align="center"><img width="70%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 <p>Welcome to my page!</p>
 - ❤️ I'm Software engineering student from SO, currently living in TR <br/>  
@@ -82,8 +82,8 @@
 ## Github Stats  
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" />
-  <img width="31.3%" src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" alt="streak graph"  />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" />
+  <img width="34.3%" src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" alt="streak graph"  />
 </div>  
 
 <br/>
