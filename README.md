@@ -5,7 +5,7 @@
 
 ### INFO
 - 🌱 I’m currently learning the <b>MERN Stack</b>, focusing on creating responsive and interactive web applications. <br/>
-- 🎯 My goal is this year is to become <b>a full-stack developer</b>, capable of handling both front-end and back-end tasks with proficiency.<br/>
+- 🎯 My goal of this year is to become <b>a full-stack developer</b>, capable of handling both front-end and back-end tasks with proficiency.<br/>
 - 🌍 I am particularly interested in contributing to <b>open-source</b> projects and collaborating with developers around the world.<br/>
 - ⚡ Fun fact: When I'm not coding, I enjoy diving into the world of graphic design.<br/>
 
