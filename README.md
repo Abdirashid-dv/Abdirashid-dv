@@ -87,8 +87,8 @@
 ## Github Stats  
 
 <div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" />
-  <img width="34.3%" src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" alt="streak graph"  />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=Abdirashid-dv&theme=dark&show_icons=true&count_private=true&hide_border=false" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=Abdirashid-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2&order=3" alt="streak graph"  />
 </div>  
 
 <br/>
