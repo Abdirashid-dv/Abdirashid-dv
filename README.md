@@ -1,9 +1,12 @@
 <p align="center"><img width="50%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 <p>Welcome to my page!</p>
-<p>- ❤️ I'm Software engineering student from SO <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/> , currently living in TR <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/> <br/> </p>
-- 🌱 I’m currently learning MERN Stack <br/>  
-  
+<p>- ❤️ I'm a passionate Software Engineering student from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, currently living in Turkey <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/>.</p>
+<p>- 🌱 I’m currently learning the MERN Stack, focusing on creating responsive and interactive web applications.</p>
+<p>- 🎯 My goal is this year is to become a full-stack developer, capable of handling both front-end and back-end tasks with proficiency.</p>
+<p>- 🌍 I am particularly interested in contributing to open-source projects and collaborating with developers around the world.</p>
+<p>- ⚡ Fun fact: When I'm not coding, I enjoy diving into the world of graphic design.</p>
+
 
 <br/>  
 
