@@ -1,7 +1,7 @@
 <p align="center"><img width="50%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 
-<p>❤️ I'm a passionate Software Engineering student from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, currently living in Turkey <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/>.</p>
+<p align="center">❤️ I'm a passionate Software Engineering student from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, currently living in Turkey <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/>.</p>
 
 ### INFO
 - 🌱 I’m currently learning the <b>MERN Stack</b>, focusing on creating responsive and interactive web applications. <br/>
