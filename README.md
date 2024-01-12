@@ -1,7 +1,7 @@
 <p align="center"><img width="50%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 <p>Welcome to my page!</p>
-- ❤️ I'm Software engineering student from SO, currently living in TR <br/>  
+<p>- ❤️ I'm Software engineering student from SO <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/> , currently living in TR <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/> <br/> </p>
 - 🌱 I’m currently learning MERN Stack <br/>  
   
 
