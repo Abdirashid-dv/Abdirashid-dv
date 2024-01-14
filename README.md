@@ -1,12 +1,12 @@
 <p align="center"><img width="50%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 
-<p align="center">❤️ I'm a passionate Software Engineering student from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, currently living in Turkey <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="30px"/>.</p>
+<p align="center">❤️ <b>Passionate Software Engineering Student</b> from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, <b>Current Residence:</b> Turkey  <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="25px"/> advancing in tech studies.</p>
 
 ### INFO
-- 🌱 I’m currently learning the <b>MERN Stack</b>, focusing on creating responsive and interactive web applications. <br/>
-- 🎯 My goal of this year is to become <b>a full-stack developer</b>, capable of handling both front-end and back-end tasks with proficiency.<br/>
-- 🌍 I am particularly interested in contributing to <b>open-source</b> projects and collaborating with developers around the world.<br/>
+- 🌱 Learning <b>MERN Stack</b> for responsive, interactive web apps.<br/>
+- 🎯 2024 goal: Become a proficient full-stack developer.<br/>
+- 🌍 Keen on contributing to open-source, global collaboration.<br/>
 - ⚡ Fun fact: When I'm not coding, I'm in the world of graphic design, where my biggest challenge is not overusing the color blue. It's just too good.<br/>
 
 
