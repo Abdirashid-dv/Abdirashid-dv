@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
+<p align="center"><img width="55%" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/Logo!.png" /></p>
 <br />
 
 <p align="center">❤️ <b>Passionate Software Engineering Student</b> from Somalia <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/somalia.png" height="25px"/>, <b>Current Residence:</b> Turkey  <img align="center" src="https://github.com/Abdirashid-dv/Abdirashid-dv/blob/main/turkey.png" height="25px"/> advancing in tech studies.</p>
