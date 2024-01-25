@@ -5,7 +5,8 @@
 
 
 
-## INFO
+## Personal Summary
+
 - 🌱 Learning <b>MERN Stack</b> for responsive, interactive web apps.<br/>
 - 🎯 2024 goal: Become a proficient full-stack developer.<br/>
 - 🌍 Keen on contributing to open-source, global collaboration.<br/>
