@@ -9,7 +9,7 @@
 ## Personal Summary
 
 - 🌱 Learning <b>MERN Stack</b> for responsive, interactive web apps.<br/>
-- 🎯 2024 goal: Become a proficient full-stack developer.<br/>
+- 🎯 2025 goal: Become a proficient full-stack developer.<br/>
 - 🌍 Keen on contributing to open-source, global collaboration.<br/>
 - ⚡ Fun fact: When I'm not coding, I'm in the world of graphic design, where my biggest challenge is not overusing the color blue. It's just too good.<br/>
 
